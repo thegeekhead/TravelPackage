@@ -6,5 +6,5 @@ Task: Travel Package
 
 . Diagrams are attached.
 
-![HLD.drawio.png](..%2F..%2F..%2FDesktop%2FHLD.drawio.png)
-![LLD.drawio.png](..%2F..%2F..%2FDesktop%2FLLD.drawio.png)
+![HLD drawio](https://github.com/thegeekhead/TravelPackage/assets/54657591/7a6ff0a3-5e51-4086-963b-465fae7c9f16)
+![LLD drawio](https://github.com/thegeekhead/TravelPackage/assets/54657591/31f508f3-aaf1-4843-83b8-af4cf50435c4)
